@@ -15,7 +15,9 @@ I'm not particularly interested in trying to present myself as an expert at ever
 ## Profiles
 
 - [GitHub](https://github.com/sanjay-kr-commit)
-- [LeetCode](https://leetcode.com/)
-- [NeetCode](https://neetcode.io/)
+- [portfolio](https://sanjay-kr-commit.github.io/)
+- [LeetCode](https://leetcode.com/u/sanjay-kr-commit/)
+- [NeetCode](https://neetcode.io/user/RubySeaking832)
+- [if you wish to know me more](https://github.com/sanjay-kr-commit/sanjay-kr-commit/blob/main/ABOUT_ME_DETAILED.md)
 
 More links and projects can be found through my GitHub profile.

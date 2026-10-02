@@ -12,7 +12,7 @@ At the time, I was using a machine with **4 GB of RAM**, and Windows 10 was not 
 
 My first distribution was **Garuda Linux**.
 
-It was an interesting way to enter the Linux world. From there I gradually moved to **Ubuntu**, then **Pop!_OS**, and eventually returned to **Arch Linux**.
+It was an interesting way to enter the Linux world. From there I gradually moved to **Ubuntu**, then **Pop!\_OS**, and eventually returned to **Arch Linux**.
 
 The important part was not really the distributions themselves. Using Linux made me curious about what was happening underneath the desktop. I started learning about the operating system, command-line tools, configuration, processes, filesystems, and the different pieces that make a Unix-like environment work.
 
@@ -105,8 +105,9 @@ I like having different things to explore.
 I keep most of my public technical work on GitHub. I also use programming-problem platforms as part of learning and practicing problem solving.
 
 - [GitHub](https://github.com/sanjay-kr-commit)
-- [LeetCode](https://leetcode.com/)
-- [NeetCode](https://neetcode.io/)
+- [portfolio](https://sanjay-kr-commit.github.io/)
+- [LeetCode](https://leetcode.com/u/sanjay-kr-commit/)
+- [NeetCode](https://neetcode.io/user/RubySeaking832)
 
 My GitHub profile is the best place to find my current projects and other public work.
 
