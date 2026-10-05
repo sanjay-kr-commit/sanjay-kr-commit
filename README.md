@@ -18,6 +18,10 @@ I'm not particularly interested in trying to present myself as an expert at ever
 - [portfolio](https://sanjay-kr-commit.github.io/)
 - [LeetCode](https://leetcode.com/u/sanjay-kr-commit/)
 - [NeetCode](https://neetcode.io/user/RubySeaking832)
-- [if you wish to know me more](https://github.com/sanjay-kr-commit/sanjay-kr-commit/blob/main/ABOUT_ME_DETAILED.md)
+
+## other things
+
+- [if you wish to know me more](./ABOUT_ME_DETAILED.md)
+- [some hack i use](./some_hack_i_use.md)
 
 More links and projects can be found through my GitHub profile.

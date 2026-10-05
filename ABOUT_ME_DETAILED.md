@@ -109,6 +109,11 @@ I keep most of my public technical work on GitHub. I also use programming-proble
 - [LeetCode](https://leetcode.com/u/sanjay-kr-commit/)
 - [NeetCode](https://neetcode.io/user/RubySeaking832)
 
+## other things
+
+- [if you wish to know me more](./ABOUT_ME_DETAILED.md)
+- [some hack i use](./some_hack_i_use.md)
+
 My GitHub profile is the best place to find my current projects and other public work.
 
 ---
