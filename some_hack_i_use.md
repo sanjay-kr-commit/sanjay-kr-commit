@@ -1,6 +1,6 @@
-# a simple tool to run command
+# #-> task runner
 
-add #->command anywhere and it will give you index to invoke it
+add #->command anywhere and it will give you invokable
 
 ````zsh
 #!/bin/zsh
