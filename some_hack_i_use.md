@@ -1,6 +1,6 @@
 # #-> task runner
 
-add #->command anywhere and it will give you invokable
+add #->command anywhere and it will make it invokable
 
 ````zsh
 #!/bin/zsh
